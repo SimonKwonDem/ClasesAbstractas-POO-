@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClasesAbstractas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
