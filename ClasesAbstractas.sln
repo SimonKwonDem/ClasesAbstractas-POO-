@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioInterfaz3", "Ejerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capas", "Capas\Capas.csproj", "{57A6B856-AC9F-4EBD-AF58-E162BF5F89CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capas1", "Capas1\Capas1.csproj", "{A462937A-9C32-4B4A-AA57-27081B186876}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{57A6B856-AC9F-4EBD-AF58-E162BF5F89CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57A6B856-AC9F-4EBD-AF58-E162BF5F89CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57A6B856-AC9F-4EBD-AF58-E162BF5F89CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A462937A-9C32-4B4A-AA57-27081B186876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A462937A-9C32-4B4A-AA57-27081B186876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A462937A-9C32-4B4A-AA57-27081B186876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A462937A-9C32-4B4A-AA57-27081B186876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
